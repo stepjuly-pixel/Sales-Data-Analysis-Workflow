@@ -125,6 +125,9 @@ These steps ensure analytical accuracy and business-ready metrics.
 
 - Seasonality patterns suggest opportunities for forecasting optimization.
 
+<img width="1163" height="808" alt="plots" src="https://github.com/user-attachments/assets/9f5c3912-4c43-4292-af42-f64a84f48f94" />
+
+
 ## How to Run
 
 1. Clone this repository
