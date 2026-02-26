@@ -77,8 +77,6 @@ The following preprocessing steps were performed:
 
   - Profit
 
-  - Profit Margin
-
 These steps ensure analytical accuracy and business-ready metrics.
 
 ## Exploratory Data Analysis
@@ -86,9 +84,7 @@ These steps ensure analytical accuracy and business-ready metrics.
 ### Revenue & Profit Distribution
 
 - Analysis of revenue and profit distributions
-
-- Identification of skewness and high-value transactions
-
+  
 - Detection of outliers
 
 ### Sales Channel Performance
@@ -99,17 +95,21 @@ These steps ensure analytical accuracy and business-ready metrics.
 
 ### Geographic Performance
 
-- Revenue comparison across countries
+- Revenue comparison across countries and regions
 
 - Profitability differences between regions
 
-### Order Priority Analysis
+## Delivery & Profit Relationship
 
-- Evaluation of how operational priority relates to financial outcomes
+- Analysis of delivery timing (order vs ship date)
+
+- Evaluation of its relationship with profitability
 
 ### Time-Based Trends
 
 - Monthly revenue and profit trends
+
+- Analyzing product sales by day of the week
 
 - Detection of growth patterns and seasonality
 
