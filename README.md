@@ -141,8 +141,10 @@ pip install -r requirements.txt
 3. Open data-analysis-workflow.ipynb in Jupyter Notebook or Google Colab
 
 ## Project Structure
+```
+sales-data-analysis-workflow/
 
-full-data-analysis-workflow/
 - data-analysis-workflow.ipynb
 - requirements.txt
 - README.md
+```
