@@ -111,7 +111,7 @@ The following preprocessing steps were performed:
 
 - Profit is distributed evenly across the entire range (1–50 days), meaning delivery time does not significantly affect profitability
 
-<img src="images/profut_vs_shipping.png" width="700" />
+<img src="images/profit_vs_shipping.png" width="700" />
 
 ### Sales Dynamics Over Time
 
@@ -162,7 +162,7 @@ full-data-analysis-workflow/
 ├── images/
 │   ├── plots.png
 │   ├── profit_category.png
-│   ├── profut_vs_shipping.png
+│   ├── profit_vs_shipping.png
 │   └── order_day_week.png
 ├── data_analysis_workflow.ipynb
 ├── requirements.txt
